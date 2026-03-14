@@ -46,6 +46,7 @@ while True:
     elif "hello" in user_input:
         txt = "Hi!Tareq. How are you?"
         print(f"Tanya7 : {txt}")
+        # flag{I_D0Nt_HaVe_0Ne} :(
         speak(txt)
     elif "I am fine and you" in user_input:
         txt = "I'm fine too."
